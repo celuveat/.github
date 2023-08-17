@@ -1,5 +1,9 @@
 ## 2023-Celuveat
 
+### Repository
+- [https://celuveat.com](https://github.com/woowacourse-teams/2023-celuveat)
+<br/><br/>
+
 ### 배포 서버
 - [https://celuveat.com](https://celuveat.com)
 <br/><br/>
