@@ -1,7 +1,5 @@
 ## 2023-Celuveat
 
-<br/><br/>
-
 ### 배포 서버
 - [https://celuveat.com](https://celuveat.com)
 <br/><br/>
